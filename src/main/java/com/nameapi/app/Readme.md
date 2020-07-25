@@ -11,6 +11,7 @@ Nor that an evil programmer can break it:
     - pentru acest caz am protejat toate atributele interne facandu-le private si clasa (StringFed) am definit-o ca fiind final ca sa nu mai poata fi mostenita.
 
 PS1: o serie de comentarii explicative se afla in cod
+
 PS2: in dezvoltarea aplicatiei am incercat sa nu fac optimizari premature.
 
 PS3: pentru cazul 'Nor that an evil programmer can break it', in caz ca aceasta clasa va fi utilizata ca un api,
