@@ -20,4 +20,4 @@ PS3: pentru cazul 'Nor that an evil programmer can break it', in caz ca aceasta 
 
 PS4: va multumesc pentru aceasta provocare, chiar mi-a prins bine, Multumesc ^^.
 
-PS5: pentru dev, am folosit ca IDE VisualCode, iar JDK-ul (JDK11) l-am folosit prin WSL2 (Ubuntu20.04), #nuMiPreaPlaceEclipse. Proiectul l-am generat cu utilizat mvn si de testat se poate testa cu 'mvn test'.
+PS5: pentru dev, am folosit ca IDE VisualCode, iar JDK-ul (JDK11) l-am folosit prin WSL2 (Ubuntu20.04). Proiectul l-am generat cu utilizat mvn si de testat se poate testa cu 'mvn test'.
